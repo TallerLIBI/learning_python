@@ -37,6 +37,7 @@ Atrévete a interaccionar y colaborar en el desarrollo de este documento.
 
 # Interaccionando con Github
 ### Info y tutoriales en la web
+http://rogerdudler.github.io/git-guide/index.es.html
 https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-for-complete-newbies \
 https://try.github.io/levels/1/challenges/1 \
 https://guides.github.com/activities/hello-world/ \
