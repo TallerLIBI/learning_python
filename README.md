@@ -108,3 +108,9 @@ https://www.elegantthemes.com/blog/resources/git-and-github-a-beginners-guide-fo
 https://try.github.io/levels/1/challenges/1 \
 https://guides.github.com/activities/hello-world/ \
 https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+## Text editing with MarkDown
+https://daringfireball.net/projects/markdown/syntax \
+http://commonmark.org/help/ \
+https://help.github.com/articles/basic-writing-and-formatting-syntax/ \
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet \
+https://learn.getgrav.org/content/markdown
