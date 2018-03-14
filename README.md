@@ -67,7 +67,11 @@ https://bokeh.pydata.org/en/latest/ \
 https://plot.ly/python/
 
 ### Image processing
-http://scikit-image.org/ 
+http://scikit-image.org/ \
+https://www.pyimagesearch.com/2014/07/21/detecting-circles-images-using-opencv-hough-circles/ \
+https://github.com/abidrahmank/OpenCV2-Python \
+https://docs.opencv.org/3.3.1/d4/d70/tutorial_hough_circle.html \
+https://www.pyimagesearch.com/
 
 ### Miscellanea
 
