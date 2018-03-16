@@ -73,6 +73,9 @@ https://github.com/abidrahmank/OpenCV2-Python \
 https://docs.opencv.org/3.3.1/d4/d70/tutorial_hough_circle.html \
 https://www.pyimagesearch.com/
 
+### Web Scraping
+https://python.gotrained.com/python-web-scraping-libraries/ \
+
 ### Miscellanea
 
 #### Maps
